@@ -9,3 +9,4 @@ Pillow
 python-dotenv
 ipykernel
 seaborn
+opencv-python
