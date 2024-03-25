@@ -1,0 +1,10 @@
+pandas
+numpy
+folium
+turfpy
+earthengine-api
+geopandas
+geemap 
+Pillow 
+python-dotenv
+ipykernel
