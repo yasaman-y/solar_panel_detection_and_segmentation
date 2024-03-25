@@ -8,3 +8,4 @@ geemap
 Pillow 
 python-dotenv
 ipykernel
+seaborn
