@@ -24,4 +24,5 @@ roboflow
 # segmentation-models
 # git+https://github.com/qubvel/segmentation_models
 torchviz
-
+segmentation_models_pytorch
+torchsummary
